@@ -1,20 +1,25 @@
-import Link from 'next/link';
-import Product from './product'
+import React, { Component } from 'react'
+import Link from 'next/link'
 
-class Products extends React.Component {
+
+
+
+class Product extends React.Component {
 
     render() {
-        const data = (this.props.products);
-        const listItems = data.map((product) =>
-            <div>
+        const data = (this.props.category.matched_products);
+
+        const listItem = data.map((productGold, category_id) =>
+            <div key={productGold.product_id}>
 
 
-                <ul>
+                {/* <ul>
                     <li>
-                        <Product product={product} />
+                        <p>{productGold.product_desc}</p>
+                        <p>{productGold.gender}</p>
 
                     </li>
-                </ul>
+                </ul> */}
                 {/* <ul>
                     <li>
                         <Link href={product.product_link}>
@@ -67,11 +72,11 @@ class Products extends React.Component {
 
         return (
             <div>
-                {listItems}
+                {listItem}
 
             </div>
         );
     }
 }
 
-export default Products
+export default Product

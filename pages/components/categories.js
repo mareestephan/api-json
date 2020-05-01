@@ -1,56 +1,82 @@
 import Link from 'next/link';
-import Category from './category'
+import Product from './product'
 
 
 class Categories extends React.Component {
 
     render() {
-        const data = (this.props.categories.pages_to_create);
-        const listItems = data.map((category, index) =>
-            <div>
+
+        const data = (this.props.categories);
+        const listItems = data.map((category) =>
+            <div key={category.category_id} >
 
                 <ul>
                     <li>
+                        {/* <Link href=""  >
+                            <Category category={category} />
+                        </Link> */}
+                        <Product category={category} />
 
-                        <Category category={category} />
-                        <p>{index}</p>
+                        <Link href='/components/clp/[products]' as={'/components' + category.slug}>
 
-
-                        {/* <Link href={category.slug}>
-                            <a >{category.slug}</a>
-                        </Link>
-
-                        <p>{category.slug}</p> */}
-
+                            <a>
+                                <h5>{category.meta_title}
+                                </h5>
+                            </a>
+                            {//this can be any of the variables
+                            }
+                        </Link >
                     </li>
-                    {//Categories component spoeg n category link uit.
-                        // Daai link neem jou na die products page met daai spesifieke products.
-                        //Afhangend van die array key. Die array key gee dan toegang na die regte object.
-                    }
-
                 </ul>
-
                 <style jsx>{
                     `
             ul {
                 list-style: none;
 
-            }
-            `
+            }           `
                 }
-
                 </style>
-
             </div >
         );
 
         return (
             <div>
                 {listItems}
-
             </div>
         );
+
     }
+
+
 }
 
 export default Categories
+
+// import Link from 'next/link'
+
+// const Categories = (props) => (
+
+//     < div >
+//         <h1>Blog</h1>
+
+//         <ul>
+
+//             {
+//                 Object.entries(this.props.categories).map((category) => {
+//                     return (
+//                         <li >
+
+//                             {console.log(category[0].slug)}
+
+//                         </li>
+//                     )
+//                 }
+//                 )
+//             }
+
+
+//         </ul>
+//     </div >
+// )
+
+// export default Categories
