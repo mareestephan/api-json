@@ -22,45 +22,6 @@
           "brand": "Wilkins"
         },
         {
-          "product_id": 1,
-          "product_desc": "Consequat esse pariatur officia consequat est aliqua aliquip magna. Do officia ullamco laboris ut reprehenderit adipisicing Lorem qui nisi voluptate. Elit fugiat veniam proident elit enim amet veniam adipisicing aute aute.\r\n",
-          "product_link": "https://www.allsale.co.za/sellers-farmer-rodgers.html",
-          "price": "$171.48",
-          "on_sale": true,
-          "in_stock": true,
-          "product_name": "TRAN MELTON GILBERT",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "female",
-          "sale_price": "$158.52",
-          "brand": "Langley"
-        },
-        {
-          "product_id": 2,
-          "product_desc": "Aliquip pariatur ipsum consequat sit. Occaecat non ea sit dolor eu Lorem esse pariatur exercitation aliqua non et eu consectetur. Labore voluptate aute quis nisi irure. Non reprehenderit qui qui aliquip ipsum. Dolore irure esse ad reprehenderit commodo laborum et nisi sint quis sint adipisicing officia.\r\n",
-          "product_link": "https://www.allsale.co.za/lowery-gamble-ruiz.html",
-          "price": "$280.43",
-          "on_sale": true,
-          "in_stock": true,
-          "product_name": "TUCKER HOOPER HEBERT",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "male",
-          "sale_price": "$83.58",
-          "brand": "Beasley"
-        },
-        {
-          "product_id": 3,
-          "product_desc": "Dolor elit labore veniam culpa et consequat enim. Ullamco enim elit cupidatat consectetur aliquip eu quis. Incididunt eu exercitation aliqua duis id sunt est proident fugiat do.\r\n",
-          "product_link": "https://www.allsale.co.za/roberson-fuller-davenport.html",
-          "price": "$366.96",
-          "on_sale": false,
-          "in_stock": true,
-          "product_name": "GRIFFIN WHITFIELD VEGA",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "female",
-          "sale_price": "$118.11",
-          "brand": "Roberts"
-        },
-        {
           "product_id": 4,
           "product_desc": "Incididunt fugiat velit sint elit adipisicing aliquip tempor ea sunt dolore veniam proident eu ut. Voluptate irure amet labore cupidatat labore magna non laborum. Elit cupidatat est est non velit est exercitation incididunt sint in cupidatat.\r\n",
           "product_link": "https://www.allsale.co.za/ayala-riggs-parks.html",
@@ -96,19 +57,6 @@
           "brand": "Madden"
         },
         {
-          "product_id": 1,
-          "product_desc": "Ex duis deserunt fugiat ex aute consequat. Dolore ea aliquip do aliquip ut esse. Cillum esse do ad commodo fugiat qui proident dolore veniam deserunt. Ipsum enim Lorem deserunt sunt esse. Reprehenderit cupidatat labore consequat deserunt labore est. Laborum voluptate Lorem ipsum mollit do qui reprehenderit magna velit irure exercitation.\r\n",
-          "product_link": "https://www.allsale.co.za/castro-kidd-garza.html",
-          "price": "$289.35",
-          "on_sale": false,
-          "in_stock": false,
-          "product_name": "HUMPHREY MUNOZ VANCE",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "female",
-          "sale_price": "$147.95",
-          "brand": "Hess"
-        },
-        {
           "product_id": 2,
           "product_desc": "Aute Lorem exercitation sit irure sunt dolor. Velit laboris minim incididunt ea irure dolor ut. Adipisicing ea labore amet Lorem. Reprehenderit excepteur pariatur ipsum ad aute velit consequat velit anim commodo sunt.\r\n",
           "product_link": "https://www.allsale.co.za/henson-delgado-powers.html",
@@ -120,19 +68,6 @@
           "gender": "female",
           "sale_price": "$61.48",
           "brand": "Tanner"
-        },
-        {
-          "product_id": 3,
-          "product_desc": "Laborum amet incididunt eiusmod cupidatat et magna dolor minim esse adipisicing fugiat pariatur. Laborum adipisicing reprehenderit aute commodo esse exercitation qui qui non tempor esse. In Lorem et duis consequat eu labore sunt laboris exercitation laboris nulla incididunt dolor adipisicing. Ipsum Lorem quis eu sint ipsum officia anim non Lorem. Pariatur esse sint culpa pariatur ullamco aliquip deserunt labore. Elit cillum ullamco ex esse tempor officia dolore. Aliqua labore sunt anim sint reprehenderit amet magna ad occaecat dolor.\r\n",
-          "product_link": "https://www.allsale.co.za/ashley-herrera-williams.html",
-          "price": "$136.97",
-          "on_sale": true,
-          "in_stock": false,
-          "product_name": "CASTILLO HOWELL BARR",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "male",
-          "sale_price": "$179.15",
-          "brand": "Guerrero"
         },
         {
           "product_id": 4,
@@ -159,58 +94,6 @@
           "gender": "male",
           "sale_price": "$83.08",
           "brand": "Mullins"
-        },
-        {
-          "product_id": 6,
-          "product_desc": "Commodo nulla occaecat duis aliqua sunt minim occaecat veniam deserunt id. Deserunt sit aute Lorem quis enim laboris mollit. Aute reprehenderit ut et tempor aliquip occaecat duis cupidatat mollit. Deserunt pariatur id dolor commodo eiusmod aliqua ea fugiat tempor ea. Ea ex id consectetur cillum non aute ut. Enim cillum voluptate aliquip irure.\r\n",
-          "product_link": "https://www.allsale.co.za/hansen-peck-ball.html",
-          "price": "$334.95",
-          "on_sale": false,
-          "in_stock": false,
-          "product_name": "BROOKS BARTON EATON",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "female",
-          "sale_price": "$195.39",
-          "brand": "Price"
-        },
-        {
-          "product_id": 7,
-          "product_desc": "Occaecat nisi Lorem ipsum fugiat voluptate qui. Reprehenderit anim amet non consectetur adipisicing pariatur consequat sunt aliquip eiusmod cupidatat sunt sunt. Dolor incididunt excepteur veniam aliqua velit proident fugiat nostrud fugiat.\r\n",
-          "product_link": "https://www.allsale.co.za/french-scott-tyler.html",
-          "price": "$170.05",
-          "on_sale": false,
-          "in_stock": true,
-          "product_name": "GUY POTTER MIRANDA",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "male",
-          "sale_price": "$69.69",
-          "brand": "Cotton"
-        },
-        {
-          "product_id": 8,
-          "product_desc": "Fugiat ex aute et sunt et consectetur laborum velit ipsum sit veniam. Eiusmod enim eu laborum aliqua dolor esse elit cillum tempor quis. Dolor ut ex cupidatat culpa in ipsum. Duis veniam tempor ipsum reprehenderit exercitation eiusmod Lorem do quis exercitation qui do fugiat adipisicing. Laboris amet nostrud ullamco duis ipsum ea deserunt consectetur id Lorem minim.\r\n",
-          "product_link": "https://www.allsale.co.za/hoover-hanson-johns.html",
-          "price": "$300.46",
-          "on_sale": true,
-          "in_stock": false,
-          "product_name": "FOX CAMACHO PATTON",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "male",
-          "sale_price": "$188.13",
-          "brand": "Strickland"
-        },
-        {
-          "product_id": 9,
-          "product_desc": "Mollit ad mollit eu excepteur pariatur magna elit. Excepteur quis officia in aliqua cillum et aute id. Magna veniam veniam est sint quis nostrud.\r\n",
-          "product_link": "https://www.allsale.co.za/avery-maldonado-parsons.html",
-          "price": "$201.14",
-          "on_sale": false,
-          "in_stock": true,
-          "product_name": "SINGLETON WALTER SALAZAR",
-          "product_image": "http://placehold.it/180x180",
-          "gender": "male",
-          "sale_price": "$74.78",
-          "brand": "Patel"
         }
       ]
     },
