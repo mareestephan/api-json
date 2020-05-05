@@ -1,5 +1,5 @@
 {
-  "client_name": "All Sale",
+  
   "pages_to_create": [
     {
       "meta_description": "Aliquip aute aliquip commodo culpa quis excepteur nostrud laborum cupidatat. Nulla velit deserunt pariatur sint esse ut sit cupidatat culpa deserunt Lorem. Minim sit Lorem sunt nostrud commodo do deserunt id irure consectetur commodo elit commodo. Incididunt veniam commodo dolor duis dolore ipsum in minim officia in labore fugiat quis deserunt.\r\n",
@@ -132,7 +132,5 @@
         }
       ]
     }
-  ],
-  "client_feed_location": "https://hosted.cdn.com/marshall-cabrera-woods.json",
-  "client_adwords_id": 208.4383
+  ]
 }
